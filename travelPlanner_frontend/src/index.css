@@ -1,0 +1,27 @@
+@import "./App.css";
+@import "./styles/Header.css";
+@import "./styles/Main.css";
+@import "./styles/Footer.css";
+@import "./styles/GoogleMap.css";
+@import "./styles/Itinary.css";
+@import "./styles/PlaceList.css";
+@import "./styles/CityDetails.css";
+@import "./styles/InsertPage.css";
+@import "./styles/Recommendation.css";
+@import "./styles/MainPage.css";
+@import "./styles/Login.css";
+@import "./styles/Register.css";
+@import '~antd/dist/antd.css';
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

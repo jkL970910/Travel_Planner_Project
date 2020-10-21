@@ -1,0 +1,34 @@
+.recommendation{
+    position: 'relative';
+    height:1000px;
+}
+
+.background{
+    position: 'absolute';
+    background: url('../assets/picture/recommendation_bg.jpg') no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    padding: 100px;
+    text-align: center;
+}
+
+.recommendationlist{
+    display: inline-block;
+    margin-Top: 0px;
+    text-align: center;
+    width: 850px;
+    height: 1000px;
+    overflow: auto;
+    background-color: transparent;
+}
+
+.design{
+    padding: 20px;
+}
+
+.recommendedList{
+    /* height: 100px;
+    overflow: scroll; */
+    /* background-color: palegoldenrod; */
+
+}

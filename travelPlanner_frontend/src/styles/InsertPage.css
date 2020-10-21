@@ -1,0 +1,20 @@
+.insert-box{
+    height: 100px;
+    text-align: middle;
+    padding: 10px;
+}
+
+.search-place-btn {
+    float: middle;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.interest {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.options {
+    font-size: large;
+    font-weight: bold;
+}

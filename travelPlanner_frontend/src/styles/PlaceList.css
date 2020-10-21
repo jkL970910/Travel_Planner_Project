@@ -1,0 +1,33 @@
+.place-list-box{
+    top:0;
+    padding: 15px;
+    /* border: 2px solid rgb(204, 204, 204); */
+    height: 500px; 
+    margin-top: 0px;
+    overflow: scroll;
+}
+
+.design-btn{
+    padding: 10px;
+    margin-top: 10px;
+    background-color: gold;
+}
+
+.listItem {
+    font-size: x-large;
+}
+.interest {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Duration {
+    text-align: middle;
+}
+
+.info-collector{
+    border: 2px solid rgb(204, 204, 204);
+    padding: 15px;
+    margin-top: 100px;
+    height: 150px;
+    margin-left: 20px;
+}
